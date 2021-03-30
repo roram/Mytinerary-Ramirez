@@ -18,7 +18,7 @@
          <p>Conocimientos adquiridos: Este fue uno de los proyectos más transbersales que tuvimos a lo largo del curso, ya que vimos como armar un back end, como configurar nuestra credenciales para utilizar MongoDB, armar rutas que sean seguras para que solo se pueda ingresar con autorización y la creación de un CRUD completo. En el frontend vimos cómo utlizar los componentes de React y su reutilización para agilizar el desarrollo, el manejo de los estados utilizando el estado centralizado de Redux y la utilización de Endpoints para hacer pedidos a la base de datos por medio de una API que desarrollamos.</p>
       </section>
       <section>
-         <p>Muchas gracias por pasar y ante cualquier duda pueden comunicar por email a: <strong>cesar.ramirez.developer@gmail.com</strong> o por <a href="https://www.linkedin.com/in/cesar-ramirez-developer/" target="_blank">Linkedin</a></p>
+         <p>Muchas gracias por pasar y ante cualquier duda pueden enviarme un email a: <strong>cesar.ramirez.developer@gmail.com</strong> o un mensaje directo a <a href="https://www.linkedin.com/in/cesar-ramirez-developer/" target="_blank">Linkedin</a></p>
       </section>
   </body>
 </html>
